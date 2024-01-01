@@ -624,8 +624,8 @@ importers:
         specifier: 3.0.0
         version: 3.0.0
       '@types/shelljs':
-        specifier: 0.8.12
-        version: 0.8.12
+        specifier: 0.8.15
+        version: 0.8.15
       eslint-config-custom:
         specifier: workspace:*
         version: link:../eslint-config-custom
@@ -2583,11 +2583,11 @@ packages:
     resolution: {integrity: sha512-OxepLK9EuNEIPxWNME+C6WwbRAOOI2o2BaQEGzz5Lu2e4Z5eDnEo+/aVEDMIXywoJitJ7xWd641wrGLZdtwRyw==}
     dev: true
 
-  /@types/shelljs@0.8.12:
-    resolution: {integrity: sha512-ZA8U81/gldY+rR5zl/7HSHrG2KDfEb3lzG6uCUDhW1DTQE9yC/VBQ45fXnXq8f3CgInfhZmjtdu/WOUlrXRQUg==}
+  /@types/shelljs@0.8.15:
+    resolution: {integrity: sha512-vzmnCHl6hViPu9GNLQJ+DZFd6BQI2DBTUeOvYHqkWQLMfKAAQYMb/xAmZkTogZI/vqXHCWkqDRymDI5p0QTi5Q==}
     dependencies:
       '@types/glob': 7.2.0
-      '@types/node': 18.11.9
+      '@types/node': 18.18.0
     dev: true
 
   /@typescript-eslint/eslint-plugin@6.7.3(@typescript-eslint/parser@6.7.3)(eslint@8.50.0)(typescript@4.8.3):
